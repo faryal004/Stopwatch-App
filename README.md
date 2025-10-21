@@ -12,7 +12,7 @@ This stopwatch lets users start, pause, reset, and record laps — perfect for t
 - Responsive design — Works smoothly on desktop and mobile  
 - Simple and elegant UI — Clean layout with intuitive controls  
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - HTML5 – Structure and layout  
 - CSS3 – Styling and responsiveness  
@@ -35,10 +35,9 @@ Stopwatch/
 ├── images/
 
 ## Live Demo
-[View Stopwatch App](
+[View Stopwatch App](https://faryal004.github.io/Stopwatch-App/)
 
 ## Preview
-
 ![Stopwatch Demo]
 (https://github.com/faryal004/Stopwatch-App/blob/main/assets/images/stopwatch-demo.gif)
 
