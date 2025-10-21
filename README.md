@@ -39,7 +39,7 @@ Stopwatch/
 
 ## Preview
 
-![Stopwatch Demo]([assets/stopwatch-demo.gif](https://github.com/faryal004/Stopwatch-App/blob/main/assets/images/stopwatch-demo.gif))
+![Stopwatch Demo]
 
 ## Author
 Faryal Aslam
